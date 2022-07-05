@@ -4,7 +4,7 @@
 Hi, I made this project while learning the Front End Dev. 
 
 ## About the Project
-* A calculator to perform simple algebraic operations.
+* A calculator to perform simple algebraic operations of rational numbers. So `.` is also included.
 
 * It includes addition, subtraction, multiplication, division, finding percentage ( `%` ) (division by 100), usage of negative rational numbers  ( `+/-` ) and an `AC` (All Clear) button.
 
